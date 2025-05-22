@@ -105,3 +105,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+## Changes
+- [Reset Restore and Revert](https://blog.git-init.com/how-to-undo-changes-in-git-using-reset-revert-and-restore/)
+
